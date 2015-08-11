@@ -1,6 +1,6 @@
 {
   "name": "hubot-movie",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A hubot script that search movie info from IMDB via OMDB",
   "main": "index.coffee",
   "scripts": {
